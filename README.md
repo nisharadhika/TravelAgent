@@ -20,5 +20,12 @@ You can run the notebook using [Google Colab](https://colab.research.google.com/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nisharadhika/TravelAgent/blob/main/Agent/Untitled4.ipynb)
 
 
-[▶️ View Demo on Google Drive](https://drive.google.com/file/d/1iZxFkfrDi5GPz4kCsCK-6c1VZEkeWedc/view?usp=sharing)
+[▶️ View Demo]
+
+
+
+https://github.com/user-attachments/assets/4402213c-5c78-443e-9442-75957220eb62
+
+
+
 
